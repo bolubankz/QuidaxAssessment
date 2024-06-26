@@ -1,0 +1,18 @@
+{
+  "multiSelect": "#multi-select",
+  "singleModalBody": "#myModal0 > .modal-dialog > .modal-content > .modal-body",
+  "modal1Body": "#myModal > .modal-dialog > .modal-content > .modal-body",
+  "modal2Body": "#myModal2 > .modal-dialog > .modal-content > .modal-body",
+  "closeableSuccessAlert": ".alert-autocloseable-success",
+  "normalSuccessAlert": ".alert-normal-success",
+  "closeableWarningAlert": ".alert-autocloseable-warning",
+  "normalWarningAlert": ".alert-normal-warning",
+  "closeableDangerAlert": ".alert-autocloseable-danger",
+  "normalDangerAlert": ".alert-normal-danger",
+  "closeableInfoAlert": ".alert-autocloseable-info",
+  "normalInfoAlert": ".alert-normal-info",
+  "singleFormEnterMessage": ".form-group > #user-message",
+  "enterMessage": "This is a test",
+  "enterA": "#value1",
+  "enterB": "#value2"
+}
